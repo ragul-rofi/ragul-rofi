@@ -6,8 +6,6 @@
 
 - 🤝 I’m looking for help with **Full stack Development**
 
-- 💬 Ask me about **html, css**
-
 - 📫 How to reach me **raguloff567n@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
