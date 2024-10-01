@@ -1,4 +1,4 @@
-#  Ragul Arumugam **|** Seeking Wisdom in the Digital Realm
+#  Ragul Arumugam 
 
 
 ## 🌐 Socials:
