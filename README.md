@@ -1,4 +1,5 @@
-# 💫 It's Ragul Arumugam !
+#  Ragul Arumugam **|** Seeking Wisdom in the Digital Realm
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragul-arumugam-881a8b292) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25786705) 
