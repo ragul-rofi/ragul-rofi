@@ -1,4 +1,6 @@
 # Ragul Arumugam
+ ### I build, break, and improve systems.
+Working on cloud-native architectures, backend systems, and scalable infrastructure using AWS, Linux, and PostgreSQL. Experienced in end-to-end software development — from design to deployment. Interested in system design, CI/CD, and distributed systems.
 
 ## Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragul-arumugam-881a8b292) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ragularumugam)
